@@ -12,4 +12,7 @@ Nairobi is an perhaps the biggest economic hub in East and Central Africa. Here 
 Scrapped the data from "https://hassconsult.co.ke/real-estate/images/HassLandIndexQ12021.pdf" with the help of Tabula and requests to create a data frame and found the longitude and latitude of Suburbs and Satelite towns of Nairobi using geocoder
 
 ## Using Foursquare Location Data:
-Foursquare data is commonly used to power location data for Apple, UberFor this business problem I have used, as a part of the assignment, the Foursquare API to retrieve information about the popular spots around these 5 Major Districts of Tokyo. The popular spots returned depends on the highest foot traffic and thus it depends on the time when the call is made. So we may get different popular venues depending upon different time of the day. The call returns a JSON file and we need to turn that into a data-frame. Here I’ve chosen 100 popular spots for each major districts within a radius of 1 km. Below is the data-frame obtained from the JSON file that was returned by Foursquare —
+Foursquare data is commonly used to power location data for Airbnb, Apple Maps, Samsung, TripAdvisor, Spotify, AccuWeather, and Uber. For this problem I have used the Foursquare API to retrieve information about 100 restaurants in a 1000 meter radius of suburban and satelite towns in Nairobi for analysis.
+
+## Indian cuisine vs fast food restaurants
+
