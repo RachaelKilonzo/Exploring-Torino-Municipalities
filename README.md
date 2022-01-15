@@ -5,3 +5,4 @@ Nairobi is an perhaps the biggest economic hub in East and Central Africa. Here 
 ## Clients that this may be of interest to.
 - Business personnel who wants to invest or open a restaurant. 
 - Freelancer who loves to have their own restaurant as a side business. 
+- Data Scientists, who may want to implement similar projects.
