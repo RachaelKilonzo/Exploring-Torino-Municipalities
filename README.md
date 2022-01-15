@@ -17,8 +17,11 @@ Foursquare data is commonly used to power location data for Airbnb, Apple Maps, 
 ## Popular cuisines
 ### Indian cuisine vs fast food restaurants
 ![indian food](https://user-images.githubusercontent.com/93233240/149623243-3ff16a83-2373-4d3c-bfb8-9b7b68bfdeb1.jpg)
+
 Indian food based restaurants are the most popular in the Suburns of Nairobi. These are closely followed the broad (unspecified) restaurant category, fast food, African and Italian categories completing the top 5.
+
 ![fastfood](https://user-images.githubusercontent.com/93233240/149623246-99f7c562-aea0-4ed3-8b2f-a09668e130ff.jpg)
+
 With limited data for the satelite towns of Nairobi, fast food restaurants are the most popular in this category. Closely followed by Restaurant, African and finally Chinese
 
 ![satelites](https://user-images.githubusercontent.com/93233240/149623236-f787c993-95d9-49c1-9d9d-1898fc3a7556.png)
