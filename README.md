@@ -27,3 +27,5 @@ With limited data for the satelite towns of Nairobi, fast food restaurants are t
 ![satelites](https://user-images.githubusercontent.com/93233240/149623236-f787c993-95d9-49c1-9d9d-1898fc3a7556.png)
 ![suburbs](https://user-images.githubusercontent.com/93233240/149623238-b953646e-9f37-4ef9-9c2e-1fb01d118d02.png)
 
+Here are their locations on a map
+![explore](https://user-images.githubusercontent.com/93233240/149674000-69c29f2d-ef9c-424f-97df-83ca20db34b2.PNG)
