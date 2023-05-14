@@ -29,9 +29,15 @@ With limited data for the satelite towns of Nairobi, fast food restaurants are t
 ![satelites](https://user-images.githubusercontent.com/93233240/149623236-f787c993-95d9-49c1-9d9d-1898fc3a7556.png)
 
 ## Distribution of Restaurants based on locations
-In he suburbs, restaurants are mostly found in Parklands, Kileleshwa, Kilimani, Karen and Gigiri
+In the suburbs, restaurants are mostly found in Parklands, Kileleshwa, Kilimani, Karen and Gigiri
+
 ![Rest by Satelite](https://github.com/RachaelKilonzo/Exploring-Nairobi/assets/93233240/12a02530-8b81-43a4-937d-b9581c661a6c)
+
 On the other hand, Satelite towns with the most restaurants are Kitengela, Ongata Ringai, Thika, Juja and Mlolongo.
+
 ![Rest By Suburb](https://github.com/RachaelKilonzo/Exploring-Nairobi/assets/93233240/f27b7f16-c28e-4d60-b53e-cba918855808)
-Here are their locations on a map
+
+Kindly explore the notebook ipynb to explore more
+
+
 
