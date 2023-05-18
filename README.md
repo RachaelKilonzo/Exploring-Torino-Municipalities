@@ -18,7 +18,7 @@ Foursquare data is commonly used to power location data for Airbnb, Apple Maps, 
 ### Restaurants in the Suburbs of Nairobi
 ![KenyanCuisine](https://github.com/RachaelKilonzo/Exploring-Nairobi/assets/93233240/e0288e32-b07e-4954-b621-2c7d9b7ca379)
 
-The broadly unspecified restaurant category is the most popular category followed by fast foo restaurants then Indian food based restaurants. African, Italian, Chinese, Ethiopian, Asian, Japanese and Mediterranean categories complete the top 10 categories.
+The broadly unspecified restaurant category is the most popular category followed by Indian food based restaurants. Fast food, African, Chinese, Italian, Ethiopian, Thai, Brazilian and Middle eastern restaurants categories complete the top 10 categories.
 
 ### Restaurants in the Satelite towns of Nairobi
 ![fastfood](https://user-images.githubusercontent.com/93233240/149623246-99f7c562-aea0-4ed3-8b2f-a09668e130ff.jpg)
@@ -29,15 +29,16 @@ With limited data for the satelite towns of Nairobi, fast food restaurants are t
 ![satelites](https://user-images.githubusercontent.com/93233240/149623236-f787c993-95d9-49c1-9d9d-1898fc3a7556.png)
 
 ## Distribution of Restaurants based on locations
-In the suburbs, restaurants are mostly found in Parklands, Kileleshwa, Kilimani, Karen and Gigiri
+
+In the suburbs, restaurants are mostly found in Westland, Parklands, Kileleshwa, Kilimani, Karen and Gigiri the UN headquarters and home to many embassies.
 
 ![Rest by Satelite](https://github.com/RachaelKilonzo/Exploring-Nairobi/assets/93233240/12a02530-8b81-43a4-937d-b9581c661a6c)
 
-On the other hand, Satelite towns with the most restaurants are Kitengela, Ongata Ringai, Thika, Juja and Mlolongo.
+On the other hand, Satelite towns with the most restaurants are Tigoni, Juja, Limuru, Athi River and Mlolongo.
 
 ![Rest By Suburb](https://github.com/RachaelKilonzo/Exploring-Nairobi/assets/93233240/f27b7f16-c28e-4d60-b53e-cba918855808)
 
-Kindly explore the notebook ipynb to explore more
+Kindly explore the notebook ipynb to learn  more
 
 
 
