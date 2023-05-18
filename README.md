@@ -12,7 +12,7 @@ Nairobi is perhaps the biggest economic hub in East and Central Africa. Here we 
 Scrapped the data from "https://www.hassconsult.com/_files/ugd/2b71ec_157e19a7330b47fba997a9c41900d979.pdf" with the help of Tabula and requests to create a data frame and found the longitude and latitude of Suburbs and Satelite towns of Nairobi using geocoder
 
 ## Using Foursquare Location Data:
-Foursquare data is commonly used to power location data for Airbnb, Apple Maps, Samsung, TripAdvisor, Spotify, AccuWeather, and Uber. For this problem I have used the Foursquare API to retrieve information about 100 restaurants in a 1000 meter radius of suburban and satelite towns in Nairobi for analysis.
+Foursquare data is commonly used to power location data for Airbnb, Apple Maps, Samsung, TripAdvisor, Spotify, AccuWeather, and Uber. For this problem I have used the Foursquare API to retrieve information about 100 spots in a 1000 meter radius of suburban and satelite towns in Nairobi for analysis then went ahead and selected the restaurants.
 
 ## Popular cuisines
 ### Restaurants in the Suburbs of Nairobi
