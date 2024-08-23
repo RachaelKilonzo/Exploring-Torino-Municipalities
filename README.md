@@ -18,6 +18,7 @@ This project aims to present an analysis of the municipalities within the Metrop
 - **Source**: Foursquare API.
 - **Method**: For each municipality, venues within a 1 km radius were collected.
 - **Details**: Venue name, category, and location were extracted for analysis.
+  [](https://github.com/RachaelKilonzo/Exploring-Torino-Municipalities/blob/main/images/venues.html)
 
 ## Analysis
 
