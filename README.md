@@ -1,5 +1,7 @@
 # Exploring Torino's Municipalities and Venues
 
+![](https://github.com/RachaelKilonzo/Exploring-Torino-Municipalities/blob/main/images/royal%20library%20of%20turin.png)
+
 ## Introduction
 
 This project aims to present an analysis of the municipalities within the Metropolitan City of Turin, Italy, focusing on the categorization of nearby venues using geolocation data and clustering techniques. The data was sourced from Wikipedia and Foursquare API, with the primary goal of exploring the diversity and distribution of venues across different municipalities.
