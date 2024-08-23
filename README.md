@@ -18,7 +18,7 @@ This project aims to present an analysis of the municipalities within the Metrop
 - **Source**: Foursquare API.
 - **Method**: For each municipality, venues within a 1 km radius were collected.
 - **Details**: Venue name, category, and location were extracted for analysis.
-  [](https://github.com/RachaelKilonzo/Exploring-Torino-Municipalities/blob/main/images/venues.PNG)
+![](https://github.com/RachaelKilonzo/Exploring-Torino-Municipalities/blob/main/images/venues.PNG)
 
 ## Analysis
 
@@ -41,7 +41,7 @@ This project aims to present an analysis of the municipalities within the Metrop
 ### Clustering Outcomes
 - **Cluster Characteristics**: Each cluster represented a different mix of venue types, with some clusters dominated by dining options and others by recreational spaces.
 - **Visualization**: A Folium map was generated to visualize the clusters, with each municipality color-coded by its cluster.
-![](ithub.com/RachaelKilonzo/Exploring-Torino-Municipalities/blob/main/images/torino_clusters_map.PNG)
+![](https://github.com/RachaelKilonzo/Exploring-Torino-Municipalities/blob/main/images/torino_clusters_map.PNG)
 
 ## Conclusion
 
