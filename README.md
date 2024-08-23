@@ -4,7 +4,8 @@
 
 ## Introduction
 
-This project aims to present an analysis of the municipalities within the Metropolitan City of Turin, Italy, focusing on the categorization of nearby venues using geolocation data and clustering techniques. The data was sourced from Wikipedia and Foursquare API, with the primary goal of exploring the diversity and distribution of venues across different municipalities.
+This project aims to present an analysis of the municipalities within the Metropolitan City of Turin, Italy, focusing on the categorization of nearby venues using geolocation data and clustering techniques. The data was sourced from
+![Wikipedia](https://en.wikipedia.org/wiki/List_of_municipalities_of_the_Metropolitan_City_of_Turin) and ![Foursquare API](https://location.foursquare.com/developer/), with the primary goal of exploring the diversity and distribution of venues across different municipalities.
 
 ## Data Collection
 
