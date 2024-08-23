@@ -1,8 +1,8 @@
-# Report: Exploring Torino's Municipalities and Venues
+# Exploring Torino's Municipalities and Venues
 
 ## Introduction
 
-This report presents an analysis of the municipalities within the Metropolitan City of Turin, Italy, focusing on the categorization of nearby venues using geolocation data and clustering techniques. The data was sourced from Wikipedia and Foursquare API, with the primary goal of exploring the diversity and distribution of venues across different municipalities.
+This project aims to present an analysis of the municipalities within the Metropolitan City of Turin, Italy, focusing on the categorization of nearby venues using geolocation data and clustering techniques. The data was sourced from Wikipedia and Foursquare API, with the primary goal of exploring the diversity and distribution of venues across different municipalities.
 
 ## Data Collection
 
@@ -30,7 +30,7 @@ This report presents an analysis of the municipalities within the Metropolitan C
 ## Results
 
 ### Venue Distribution
-- **Top Venue Types**: The most common venues included restaurants, cafes, and parks.
+- **Top Venue Types**: The most common venues included Eating joints, Plazas and Fuelling Stations 
 - **Municipality Insights**: Larger municipalities tended to have a higher diversity of venues, while smaller ones were more specialized.
 
 ### Clustering Outcomes
@@ -40,10 +40,6 @@ This report presents an analysis of the municipalities within the Metropolitan C
 ## Conclusion
 
 The analysis revealed distinct patterns in venue distribution across Torino's municipalities. These insights could inform decisions related to urban planning, tourism, and business development within the metropolitan area.
-
-## Files
-- **Data**: `TorinoMunicipalities.csv`, `VenuesInTorino.csv`
-- **Visualization**: `torino_clusters_map.html`
 
 ## Future Work
 
